@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "img": "https://i.ibb.co/J55c0ZQ/retina-repair.jpg",
+    "icon": "https://i.ibb.co/M8GBWz2/retina.png",
+    "title": "Retina Repair",
+    "shotDescription": "One method of retinal detachment repair is pneumatic retinopexy. In this procedure, a gas bubble is injected into the eye. The bubble presses against the detached retina and pushes it back into place."
+  },
+  {
+    "id": "02",
+    "img": "https://i.ibb.co/Bf1cQ0r/glaucoma-cornea.jpg",
+    "icon": "https://i.ibb.co/2PhF4Xh/glaucoma.png",
+    "title": "Glaucoma & Cornea",
+    "shotDescription": "The thinner the cornea the higher risk of developing glaucoma. The thinner corneas are also associated with increased severity of visual field loss and a more rapid progression of the disease."
+  },
+  {
+    "id": "03",
+    "img": "https://i.ibb.co/7Y6kgmy/dry-eye-surgery.jpg",
+    "icon": "https://i.ibb.co/gjmgsG0/eye-surgery.png",
+    "title": "Dry Eye Surgery",
+    "shotDescription": "Thermal cautery is a minimally invasive surgery where your doctor uses heat to close your tear ducts and prevent moisture loss. It's usually recommended if punctal plugs don't work."
+  },
+  {
+    "id": "04",
+    "img": "https://i.ibb.co/SJsV31F/cornea-transplant.jpg",
+    "icon": "https://i.ibb.co/J7yTqKC/laser.png",
+    "title": "Cornea Transplant",
+    "shotDescription": "A cornea transplant is an operation to remove all or part of a damaged cornea and replace it with healthy donor tissue. A cornea transplant is often referred to as keratoplasty or a corneal graft. "
+  },
+  {
+    "id": "05",
+    "img": "https://i.ibb.co/vzpSRcp/surgical-procedure.jpg",
+    "icon": "https://i.ibb.co/n3MXnmb/Cornea.png",
+    "title": "Surgical Procedure",
+    "shotDescription": "The act of performing surgery may be called a surgical procedure, operation, or simply 'surgery'. In this context, the verb 'operate' means to perform surgery. The adjective surgical means pertaining to surgery;"
+  },
+  {
+    "id": "06",
+    "img": "https://i.ibb.co/GnvNL5P/laser-surgery.jpg",
+    "icon": "https://i.ibb.co/hsqCGXZ/surgery.png",
+    "title": "Laser Surgery",
+    "shotDescription": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery,  "
+  }
+]

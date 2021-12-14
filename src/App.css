@@ -1,0 +1,42 @@
+#hero-banner {
+  width: 100%;
+  min-height: 100vh;
+  color: white;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./Images/eye-care-banner.jpg") center;
+  background-size: cover;
+  position: relative;
+}
+#contact-booking {
+  width: 100%;
+  min-height: 350px;
+  color: white;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./Images/booking-bg.jpg") center;
+  background-size: cover;
+  position: relative;
+}
+
+/* ============================================== */
+.cover-img {
+  overflow: hidden;
+}
+.cover-img img {
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+}
+.cover-img:hover img {
+  transform: scale(1.3);
+}
+.card-body img {
+  transform: scale(1.5);
+  transition: 0.3s ease-in-out;
+}
+.card-body:hover img {
+  transform: scale(1);
+}
+/* ============================================== */
+/* ============================================== */
+/* ============================================== */
