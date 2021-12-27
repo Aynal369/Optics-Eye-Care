@@ -12,6 +12,15 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
+      <div className="container py-5">
+        <div className="row mt-5">
+          <div className="col">
+            <h2 className="text-center">
+              <p>Coming Soon...</p>
+            </h2>
+          </div>
+        </div>
+      </div>
     </main>
   );
 };
